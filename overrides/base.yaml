@@ -19,3 +19,6 @@ dashboards:
   default:
     cfgov-performance-metrics:
       file: dashboards/cfgov-metrics.json
+
+plugins:
+  - grafana-newrelic-datasource
