@@ -1,3 +1,7 @@
+# Grafana #
+###########
+grafana/
+
 # Compiled source #
 ###################
 *.com
@@ -75,3 +79,7 @@ bower_components/
 .grunt/
 src/vendor/
 dist/
+
+# IDE #
+#######
+.idea/
